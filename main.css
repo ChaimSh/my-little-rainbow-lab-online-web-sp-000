@@ -14,7 +14,7 @@ div {
 }
 
 #orange div {
-  border-top-color #ffa500
+  border-top-color: #ffa500
 }
 #yellow div {
   color: #ff0
